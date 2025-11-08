@@ -1,0 +1,8 @@
+setuptools
+Flask
+numpy
+requests
+python-dotenv
+opencv-python
+
+
